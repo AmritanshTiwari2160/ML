@@ -1,1 +1,1 @@
-This repository contains some practical stuff done in the university in the field of machine learning.
+This repository contains some practical stuff done in the university in the field of machine learning. It contains the implementation of some python libraries such as NumPy, Pandas and Matplotlib along with operational analysis on real-life datasets like Red Wine Quality and much more.
